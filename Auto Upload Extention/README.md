@@ -1,2 +1,2 @@
-### Oddcast TTS Extention
-**_This is an extention wich adds TTS support for https://ttsdemo.com wich has many well known TTS voices like Daniel (UK) etc. Currently only the Daniel (UK) voice is supported but that will be fixed very soon._**
+### Auto Upload Extention
+**_This is an extention witch auto uploads the generated videos to youtube using the jonnekaunisto/Simple-Youtube-API. Note: This uses your quota and if you want to upload the videos publicaly you need to fill out this form: https://support.google.com/youtube/contact/yt_api_form?hl=en_**
