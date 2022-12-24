@@ -2,4 +2,4 @@
 Extentions for elebumm/RedditVideoMakerBot
 
 ## Develop
-This Branch contains extentions for the Develop Branch in elebumm/RedditVideoMakerBot
+This Branch contains extentions for the develop branch in elebumm/RedditVideoMakerBot
