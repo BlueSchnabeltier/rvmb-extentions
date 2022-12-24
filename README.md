@@ -1,4 +1,4 @@
-# rvmb-extentions
+# RVMB Extentions
 **_Extentions for elebumm/RedditVideoMakerBot_**
 
 ## What do the extentions do?
