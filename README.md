@@ -2,4 +2,4 @@
 Extentions for elebumm/RedditVideoMakerBot
 
 ## Master
-This Branch contains extentions for the master Branch in elebumm/RedditVideoMakerBot
+This Branch contains extentions for the "master" branch in elebumm/RedditVideoMakerBot
