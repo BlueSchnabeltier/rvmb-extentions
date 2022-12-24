@@ -1,2 +1,2 @@
 ### Oddcast TTS Extention
-**_This is an extention witch adds TTS support for https://ttsdemo.com wich has many well known TTS voices like Daniel (UK) etc. Currently only the Daniel (UK) voice is supported but that will be fixed very soon._**
+**_This is an extention which adds TTS support for https://ttsdemo.com wich has many well known TTS voices like Daniel (UK) etc. Currently only the Daniel (UK) voice is supported but that will be fixed very soon._**
