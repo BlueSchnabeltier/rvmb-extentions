@@ -8,10 +8,7 @@
 **_Select an extention below, download the extention ("dev" means that its for the develop version of elebumm/RedditVideoMakerBot, it does not mean a development version of the extention) and extract the contents of the .zip in your RedditVideoMakerBot's root dirctory._**
 
 ## Downloads
-**_Auto Upload Extention: https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtention.zip?raw=true
-
-Auto Upload Extention (DEV): https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtentionDev.zip?raw=true
-
-Auto Upload Extention: https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtention.zip?raw=true
-
-Auto Upload Extention (DEV): https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtentionDev.zip?raw=true_**
+**_Auto Upload Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtention.zip?raw=true
+**_Auto Upload Extention (DEV):_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtentionDev.zip?raw=true
+**_Auto Upload Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtention.zip?raw=true
+**_Auto Upload Extention (DEV):_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtentionDev.zip?raw=true
