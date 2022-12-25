@@ -9,6 +9,9 @@
 
 ## Downloads
 **_Auto Upload Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtention.zip?raw=true
+
 **_Auto Upload Extention (DEV):_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtentionDev.zip?raw=true
-**_Auto Upload Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtention.zip?raw=true
-**_Auto Upload Extention (DEV):_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtentionDev.zip?raw=true
+
+**_Oddcast TTS Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtention.zip?raw=true
+
+**_Oddcast TTS Extention (DEV):_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/OddcastTTSExtentionDev.zip?raw=true
