@@ -5,7 +5,7 @@
 **_There is a "README.md" in every extention folder that explains what the invidual extention does._**
 
 ## How to install?
-**_Select an extention below, download the extention ("dev" means that its for the develop version of elebumm/RedditVideoMakerBot, it does not mean a development version of the extention) and extract the contents of the .zip in your RedditVideoMakerBot's root dirctory._**
+**_Select an extention below, download the extention ("DEV" means that its for the develop version of elebumm/RedditVideoMakerBot, it does not mean a development version of the extention) and extract the contents of the .zip in your RedditVideoMakerBot's root dirctory._**
 
 ## Downloads
 **_Auto Upload Extention:_** https://github.com/BlueSchnabeltier/rvmb-extentions/blob/download/AutoUploadExtention.zip?raw=true
